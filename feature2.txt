@@ -1,0 +1,1 @@
+tried command git worktree add wokrtree2 worktreeWithBranch
