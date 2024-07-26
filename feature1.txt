@@ -1,0 +1,1 @@
+This was run with git worktree add ../worktree1 and it created the worktree with branch name worktree1
